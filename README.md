@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axlCastill0
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning svelte
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me axl.castilloblasco@gmail.com
 - ⚡ Fun fact: I speak english, french and spanish and I'm planning on learning vietnamese
